@@ -6,7 +6,7 @@
 # Writes everything to report file, opens it when complete
 #
 # Usage: ./hmi_diag_clean.sh --targetip <IP> [--muser USER] [--mserv SERVER] [--mport PORT]
-# Example: ./hmi_diag_clean.sh --targetip 10.54.46.1 --muser admin --mserv 9.9.9.9 --mport 443
+# Example: ./hmi_diag_clean.sh --targetip 10.55.44.1 --muser admin --mserv 9.9.9.9 --mport 443
 #
 # Author: Tier 1 MES Support
 # Version: 2.0 - Clean edition
